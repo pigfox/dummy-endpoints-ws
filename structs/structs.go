@@ -2,7 +2,7 @@ package structs
 
 import "math/rand"
 
-const ResponseRowsPerServer = 500 // Simulating returned number of tokens by DEX
+const ResponseRowsPerServer = 2000 // Simulating returned number of tokens by DEX
 const PriceDifferencePct = 5
 const RequestTimeOut = 5000 // Timeout in milliseconds
 const MinPort = 10001
